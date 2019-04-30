@@ -37,7 +37,7 @@ function is_blank($value) {
 	return !isset($value) || trim($value) === '';
 }
 
-// Function 7
+// Function 7                                                  
 // has_presence('abcd')
 // * validate data presence
 // * reverse of is_blank()
